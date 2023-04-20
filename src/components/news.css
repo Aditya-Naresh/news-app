@@ -1,0 +1,57 @@
+.news-container {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+  }
+  
+  .news-card {
+    background-color: #1c1c1c;
+    border: none;
+    color: white;
+  }
+  
+  .news-img {
+    height: 10rem;
+    object-fit: cover;
+  }
+  
+  .news-title {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+  }
+  
+  .news-description {
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    color: black;
+  }
+  
+  .news-link {
+    font-size: 0.9rem;
+  }
+  
+  .news-page-link {
+    background-color: #1c1c1c;
+    border: none;
+    color: white;
+  }
+  
+  .news-page-link:hover,
+  .news-page-link:focus {
+    background-color: #343a40;
+    border: none;
+    color: white;
+  }
+  
+  .news-page-link.active {
+    background-color: #343a40;
+    border: none;
+    color: white;
+  }
+  
+  .news-pagination {
+    margin-top: 1rem;
+  }
+  
